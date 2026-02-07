@@ -1,18 +1,26 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slipcast666&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+Я — Python-энтузиаст и большой фанат Unix-подобных систем. Yравится копаться в терминале, автоматизировать рутину и изучать внутреннее устройство Linux. 
 Занимаюсь разработкой на **Python**. Люблю чистый код, автоматизацию.
 
+- 🐍 **Python:** Разработка инструментов и бэкенд-логики.
+- 🍏 **macOS:** Основная рабочая среда, настроенная через `zsh` и `homebrew`.
+- ⌨️ **Terminal:** Обожаю CLI-инструменты и автоматизацию рутинных задач.
+- 🛠 **Интересы:** Изучаю, как выжать максимум из связки Python + Unix. Open source проекты
 ---
+### 🛠 Мой инструментарий
 
-### 🛠 Мой стек технологий
-
-**Backend & Core:**
+**Языки и фреймворки:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Tools & DevOps:**
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Системы и инструменты:**
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB03B?style=for-the-badge&logo=homebrew&logoColor=black)
+![Zsh](https://img.shields.io/badge/ZSH-000000?style=for-the-badge&logo=zsh&logoColor=yellow)
 
 ---
 
